@@ -1,0 +1,21 @@
+{
+    "headers": ["No","Name","Price","stock","Category","Option"],
+    "rows":
+            [
+                {
+                    "id": "323234342",
+                    "name": "Hulk",
+                    "price": 15,
+                    "stock": 200,
+                    "category": "Toy"
+                }
+                ,
+                {
+                    "id":"12121212",
+                    "name": "Flash",
+                    "price": 15,
+                    "stock": 400,
+                    "category": "Toy"
+                }
+            ]
+}
